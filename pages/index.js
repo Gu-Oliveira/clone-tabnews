@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Reyd e Anne, vocês são tudo pra mim. Amo vocês! ❤️</h1>;
+  return <h1>Clone do TabNews em Construção</h1>;
 }
 
 function teste2() {
